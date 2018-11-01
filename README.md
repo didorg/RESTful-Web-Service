@@ -1,5 +1,7 @@
 # Minimum RESTful Web Service
 
+Maven and Jetty
+
 HTTP GET requests at:
 http://localhost:8080/person
 
